@@ -1,8 +1,8 @@
 {
- "key": "15c76e04",
+ "key": "1178a7c",
  "stars": 2,
- "contributions": 47,
- "repos": 10,
+ "contributions": 51,
+ "repos": 11,
  "followers": 0,
  "languages": [
   [
@@ -11,43 +11,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 0,
-    "day": 4,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 5,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 6,
-    "today": false
-   },
-   {
-    "c": 4,
-    "day": 7,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 8,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 9,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 10,
-    "today": false
-   }
-  ],
   [
    {
     "c": 0,
@@ -117,26 +80,30 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 2,
     "day": 24,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 3,
+    "day": 25,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 2
  },
  "pins": [
-  {
-   "name": "Curry",
-   "url": "https://github.com/MICOO-rbx/Curry",
-   "text": "A database of the Curry plugin.",
-   "fork": false,
-   "stars": 1,
-   "language": null,
-   "topics": []
-  },
   {
    "name": "SimpleLog",
    "url": "https://github.com/MICOO-rbx/SimpleLog",
@@ -172,6 +139,15 @@
    "text": "A database of the Curry plugin.",
    "fork": false,
    "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Material-Exe",
+   "url": "https://github.com/MICOO-rbx/Material-Exe",
+   "text": "Material Design 3 inside your EXE 6.",
+   "fork": false,
+   "stars": 0,
    "language": null,
    "topics": []
   },
