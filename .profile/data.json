@@ -1,5 +1,5 @@
 {
- "key": "cb4d2273",
+ "key": "a1088e51",
  "stars": 2,
  "contributions": 60,
  "repos": 12,
@@ -109,14 +109,18 @@
    {
     "c": 0,
     "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 2
  },
  "pins": [
