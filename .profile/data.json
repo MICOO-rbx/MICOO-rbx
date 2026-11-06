@@ -1,6 +1,6 @@
 {
- "key": "a1088e51",
- "stars": 2,
+ "key": "c4eb561",
+ "stars": 3,
  "contributions": 60,
  "repos": 12,
  "followers": 0,
@@ -145,6 +145,15 @@
  ],
  "all": [
   {
+   "name": "SidebarService",
+   "url": "https://github.com/MICOO-rbx/SidebarService",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Lua",
+   "topics": []
+  },
+  {
    "name": "SimpleLog",
    "url": "https://github.com/MICOO-rbx/SimpleLog",
    "text": "",
@@ -187,15 +196,6 @@
    "fork": false,
    "stars": 0,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "SidebarService",
-   "url": "https://github.com/MICOO-rbx/SidebarService",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Lua",
    "topics": []
   },
   {
