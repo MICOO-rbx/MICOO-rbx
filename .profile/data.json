@@ -1,5 +1,5 @@
 {
- "key": "fdad577f",
+ "key": "99db8429",
  "stars": 3,
  "contributions": 60,
  "repos": 12,
@@ -109,9 +109,13 @@
    {
     "c": 0,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
